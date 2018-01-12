@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="appName">Final Project</string>
+    <string name="thermostat_help">Help Things:
+    1. Open app.
+    2. Choose Thermostat from menu list.
+    3. Click on Add Item, to add a new temperature on list.
+    4. When everything was added, click on apply button to save your changes.
+    5. To delete, click on temperature around 1-2 seconds.
+    </string>
+    <string name="apply">Apply</string>
+    <string name="temperature_del">Temperature Deleted</string>
+    <string name="thermo_list">Thermostat List</string>
+    <string name="temperatureIs">Temperature:\u0020 </string>
+    <string name="roomTemp">Temperature is:\u0020</string>
+    <string name="dayIs">Day is\u0020</string>
+    <string name="time">Time is\u0020 </string>
+    <string name="loading">Loding...</string>
+    <string name="ok">Ok</string>
+    <string name="roomTemps">Room temperature:\u0020</string>
+    <string name="dataHasBeenSaved">Data has been saved</string>
+    <string name="add_item">Add Item</string>
+    <string name="thermostat1">Automobile</string>
+    <string name="activity_tracking">Activity Tracking</string>
+    <string name="food_nutrition_information_tracker">Food Nutrition information tracker</string>
+    <string name="house_thermostat">Thermostat</string>
+    <string name="enter_temp">Enter Temp</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="enter_day">Enter Day</string>
+    <string name="enter_hour">Enter Hour</string>
+    <string name="enter_minutes">Enter Minutes</string>
+    <string name="enter_am_pm">Enter AM/PM</string>
+    <string name="are_you_sure_you_would_like_to_delete_this_item">Are you sure you would like to delete this item?</string>
+
+
+    <string name="name">Name</string>
+
+    <string name="calories">Calories</string>
+
+    <string name="total_carbohydrates">Total Carbohydrates</string>
+
+    <string name="save_entry">Save Entry</string>
+
+    <string name="activity_tracker">Activity Tracker</string>
+
+    <string name="house_thermometer">House Thermometer</string>
+
+    <string name="automobile">Automobile</string>
+
+</resources>

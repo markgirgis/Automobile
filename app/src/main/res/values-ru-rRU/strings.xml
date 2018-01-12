@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Финальный проэкт</string>
+    <string name="thermostat_help">Помощь
+    1. Откройте приложение.
+    2. Выберите термостат.
+    3. Выберите добавить, затем нажмите чтоб добавить температуру.
+    4. Когда все данные есть, нажмите принять чтоб сохранить дату.
+    5. Чтоб удалить, просто нажмите и поддержите 1-2 секунды на температуру.
+
+    </string>
+    <string name="apply">Принять</string>
+    <string name="temperature_del">Удалена температура</string>
+    <string name="temperatureIs">Температура:\u0020 </string>
+    <string name="roomTemp">Температура сохранена на:\u0020</string>
+    <string name="thermo_list">Опции термостата</string>
+    <string name="dayIs">День\u0020</string>
+    <string name="time">Время\u0020 </string>
+    <string name="loading">Загрузка...</string>
+    <string name="ok">Хорошо</string>
+    <string name="roomTemps">Комнатная температура\u0020</string>
+    <string name="dataHasBeenSaved">Дата сохранена</string>
+    <string name="add_item">Добавить</string>
+    <string name="thermostat1">Автомобильное приложение</string>
+    <string name="activity_tracking">Слежение активности</string>
+    <string name="food_nutrition_information_tracker">Слежение за едой и информация</string>
+    <string name="house_thermostat">Термостат</string>
+    <string name="enter_temp">Ввести температуру</string>
+    <string name="enter_here">Напечатайте здесь</string>
+    <string name="enter_day">Ввести день</string>
+    <string name="enter_hour">Ввести время</string>
+    <string name="enter_minutes">Ввести минуту</string>
+    <string name="enter_am_pm">Ввести AM/PM</string>
+    <string name="are_you_sure_you_would_like_to_delete_this_item">Вы хотите это удалить точно?</string>
+</resources>
+
